@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232653913330",
+    "project_id": "arbitos-oil",
+    "storage_bucket": "arbitos-oil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232653913330:android:9cc98fd618d8400177e46b",
+        "android_client_info": {
+          "package_name": "com.arbitos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOvNvvitRw9iXY9QuLWtJxkgqCng-XUC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
